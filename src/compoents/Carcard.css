@@ -1,0 +1,100 @@
+.maincard {
+  width: 60rem;
+  display: block;
+  margin: auto;
+}
+
+.card {
+  width: 19rem;
+  margin: 1rem 1rem;
+  padding: 1rem;
+  height: 35vh;
+  border-radius: 10px;
+  background-color: #f2f6fc;
+}
+.card img {
+  width: 100%;
+  height: 15vh;
+  border-radius: 10px !important;
+}
+p {
+  margin: 0 !important;
+}
+.card .title,
+.ratenow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title button {
+  border: 1px dashed blue;
+  border-radius: 15px;
+  padding: 3px 15px;
+  font-size: 8px;
+  font-weight: bold;
+  color: #747588;
+}
+
+.card-body {
+  padding: 0.5rem;
+}
+.title h5 {
+  color: #7c7e90;
+  font-size: 1rem;
+}
+.card .people,
+.card .automaic {
+  display: flex;
+  justify-content: flex-start;
+}
+.card .people p,
+.card .automaic p {
+  padding-top: 4px;
+  padding-left: 5px;
+  color: #9ca4b4;
+}
+
+.ratenow h6 {
+  color: #717386;
+}
+.people p {
+  padding-right: 3.8rem;
+}
+hr {
+  margin: 0.3rem;
+}
+.automaic p {
+  padding-right: 2rem;
+}
+.people p,
+.automaic p {
+  font-size: 12px;
+}
+.rate .box {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+.ratenow button {
+  border-radius: 15px;
+  height: 3.5vh;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+  padding: 0 10px;
+  background-color: #4899ec;
+}
+.rate {
+  display: flex;
+}
+.rate .box {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+  padding: 3px;
+  background-color: #daeafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}

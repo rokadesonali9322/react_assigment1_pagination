@@ -1,0 +1,29 @@
+.serchbox {
+  width: 60rem;
+  display: block;
+  margin: 0.5rem auto;
+  border: 1px solid #edf0fc;
+  border-radius: 6px;
+  height: 3.3rem;
+  background-color: #f1f3fa;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.serch {
+  width: 25rem;
+  position: relative;
+}
+.serchbtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 3px 5px;
+  bottom: 0;
+  color: #f1f4fa;
+}
+/* relanve  */
+.revelance {
+  color: #788194;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

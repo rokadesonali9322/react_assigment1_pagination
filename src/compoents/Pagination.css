@@ -1,0 +1,33 @@
+.pagination {
+  width: 60rem;
+  display: block;
+  margin: 0.5rem auto;
+  border: 1px solid #edf0fc;
+  border-radius: 6px;
+  height: 3.3rem;
+  background-color: #ebeef4;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+.pagination p {
+  color: #747d92;
+  font-size: 12px;
+}
+.pagi-btn > span {
+  height: 2rem;
+  background-color: #f7f7f7;
+  padding: 3px 12px;
+  margin: 10px 5px;
+  cursor: pointer;
+  color: #383838;
+  border-radius: 10px;
+}
+.pagi-btn .pagination_selected {
+  background-color: #7fbaf4;
+}
+.pagination_disabled {
+  opacity: 0;
+}
