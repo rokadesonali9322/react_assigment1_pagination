@@ -5,13 +5,14 @@ This project combines pagination and car name search functionality to display ca
 It leverages Bootstrap for design and React for dynamic rendering.
 
 ## Github Link
-1.https://github.com/rokadesonali9322/react_assigment1_pagination/
+1. https://github.com/rokadesonali9322/react_assigment1_pagination
 
 ## Deploy Link
 1. https://react-assignment-pagination.onrender.com/
 
 ## Installation
-Clone the repository: git clone  
+Clone the repository: 
+git clone "https://github.com/rokadesonali9322/react_assigment1_pagination.git" 
 
   ## Run npm install to install dependencies.
   
